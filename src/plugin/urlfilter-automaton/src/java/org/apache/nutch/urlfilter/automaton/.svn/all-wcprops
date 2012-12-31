@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlfilter-automaton/src/java/org/apache/nutch/urlfilter/automaton
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlfilter-automaton/src/java/org/apache/nutch/urlfilter/automaton/package.html
+END
+AutomatonURLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlfilter-automaton/src/java/org/apache/nutch/urlfilter/automaton/AutomatonURLFilter.java
+END

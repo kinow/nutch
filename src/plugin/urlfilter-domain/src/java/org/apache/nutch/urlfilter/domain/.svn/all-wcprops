@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1305381/nutch/trunk/src/plugin/urlfilter-domain/src/java/org/apache/nutch/urlfilter/domain
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlfilter-domain/src/java/org/apache/nutch/urlfilter/domain/package.html
+END
+DomainURLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1305381/nutch/trunk/src/plugin/urlfilter-domain/src/java/org/apache/nutch/urlfilter/domain/DomainURLFilter.java
+END

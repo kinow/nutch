@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/asf/!svn/ver/1357739/nutch/trunk/src/test
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/log4j.properties
+END
+domain-urlfilter.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/domain-urlfilter.txt
+END
+nutch-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/nutch-site.xml
+END
+crawl-tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/crawl-tests.xml
+END
+filter-all.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/filter-all.txt
+END

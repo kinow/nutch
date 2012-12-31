@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1224917/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient
+END
+HttpAuthenticationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1224917/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/HttpAuthenticationFactory.java
+END
+DummyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/DummyX509TrustManager.java
+END
+HttpAuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/HttpAuthenticationException.java
+END
+HttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/HttpResponse.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/package.html
+END
+Http.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1224917/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/Http.java
+END
+HttpAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/HttpAuthentication.java
+END
+DummySSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/DummySSLProtocolSocketFactory.java
+END
+HttpBasicAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/HttpBasicAuthentication.java
+END

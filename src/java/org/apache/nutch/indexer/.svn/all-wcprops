@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1406076/nutch/trunk/src/java/org/apache/nutch/indexer
+END
+IndexingFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1348764/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingFilters.java
+END
+NutchIndexWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/NutchIndexWriterFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/package.html
+END
+NutchDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/NutchDocument.java
+END
+IndexingFiltersChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1397308/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingFiltersChecker.java
+END
+IndexerMapReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1376394/nutch/trunk/src/java/org/apache/nutch/indexer/IndexerMapReduce.java
+END
+IndexingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingException.java
+END
+NutchField.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/NutchField.java
+END
+NutchIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1229544/nutch/trunk/src/java/org/apache/nutch/indexer/NutchIndexWriter.java
+END
+NutchIndexAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1229544/nutch/trunk/src/java/org/apache/nutch/indexer/NutchIndexAction.java
+END
+IndexerOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1229544/nutch/trunk/src/java/org/apache/nutch/indexer/IndexerOutputFormat.java
+END
+IndexingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/IndexingFilter.java
+END

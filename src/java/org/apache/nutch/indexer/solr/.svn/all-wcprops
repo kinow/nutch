@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1406076/nutch/trunk/src/java/org/apache/nutch/indexer/solr
+END
+SolrConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1359073/nutch/trunk/src/java/org/apache/nutch/indexer/solr/SolrConstants.java
+END
+SolrWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1406076/nutch/trunk/src/java/org/apache/nutch/indexer/solr/SolrWriter.java
+END
+SolrIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1359073/nutch/trunk/src/java/org/apache/nutch/indexer/solr/SolrIndexer.java
+END
+SolrMappingReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/solr/SolrMappingReader.java
+END
+SolrDeleteDuplicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1353857/nutch/trunk/src/java/org/apache/nutch/indexer/solr/SolrDeleteDuplicates.java
+END
+SolrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/solr/SolrUtils.java
+END
+SolrClean.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/indexer/solr/SolrClean.java
+END

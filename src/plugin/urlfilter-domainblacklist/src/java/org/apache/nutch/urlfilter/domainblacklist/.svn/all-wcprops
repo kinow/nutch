@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1298394/nutch/trunk/src/plugin/urlfilter-domainblacklist/src/java/org/apache/nutch/urlfilter/domainblacklist
+END
+DomainBlacklistURLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1298394/nutch/trunk/src/plugin/urlfilter-domainblacklist/src/java/org/apache/nutch/urlfilter/domainblacklist/DomainBlacklistURLFilter.java
+END

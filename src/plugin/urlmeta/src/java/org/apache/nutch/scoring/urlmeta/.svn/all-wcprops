@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlmeta/src/java/org/apache/nutch/scoring/urlmeta
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlmeta/src/java/org/apache/nutch/scoring/urlmeta/package.html
+END
+URLMetaScoringFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlmeta/src/java/org/apache/nutch/scoring/urlmeta/URLMetaScoringFilter.java
+END

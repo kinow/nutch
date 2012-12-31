@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1340546/nutch/trunk/src/plugin/protocol-httpclient/src/test/conf
+END
+httpclient-auth-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1340546/nutch/trunk/src/plugin/protocol-httpclient/src/test/conf/httpclient-auth-test.xml
+END
+nutch-site-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1340546/nutch/trunk/src/plugin/protocol-httpclient/src/test/conf/nutch-site-test.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1224917/nutch/trunk/src/plugin/parse-html/src/java/org/apache/nutch/parse/html
+END
+HtmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1224917/nutch/trunk/src/plugin/parse-html/src/java/org/apache/nutch/parse/html/HtmlParser.java
+END
+XMLCharacterRecognizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-html/src/java/org/apache/nutch/parse/html/XMLCharacterRecognizer.java
+END
+DOMBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-html/src/java/org/apache/nutch/parse/html/DOMBuilder.java
+END
+DOMContentUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1181747/nutch/trunk/src/plugin/parse-html/src/java/org/apache/nutch/parse/html/DOMContentUtils.java
+END
+HTMLMetaProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-html/src/java/org/apache/nutch/parse/html/HTMLMetaProcessor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-html/src/java/org/apache/nutch/parse/html/package.html
+END

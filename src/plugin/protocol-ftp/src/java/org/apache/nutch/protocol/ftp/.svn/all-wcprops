@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1224917/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp
+END
+FtpExceptionBadSystResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/FtpExceptionBadSystResponse.java
+END
+FtpExceptionControlClosedByForcedDataClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/FtpExceptionControlClosedByForcedDataClose.java
+END
+PrintCommandListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/PrintCommandListener.java
+END
+FtpError.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/FtpError.java
+END
+FtpException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/FtpException.java
+END
+FtpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1224917/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/FtpResponse.java
+END
+Ftp.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Ftp.java
+END
+FtpExceptionCanNotHaveDataConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/FtpExceptionCanNotHaveDataConnection.java
+END
+FtpExceptionUnknownForcedDataClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/FtpExceptionUnknownForcedDataClose.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Client.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/package.html
+END

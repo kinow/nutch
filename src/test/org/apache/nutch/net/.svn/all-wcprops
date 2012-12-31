@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1353884/nutch/trunk/src/test/org/apache/nutch/net
+END
+TestURLNormalizers.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1353884/nutch/trunk/src/test/org/apache/nutch/net/TestURLNormalizers.java
+END
+TestURLFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/org/apache/nutch/net/TestURLFilters.java
+END

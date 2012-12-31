@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1347897/nutch/trunk/src/java/org/apache/nutch/fetcher
+END
+FetcherOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/fetcher/FetcherOutputFormat.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/fetcher/package.html
+END
+OldFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1291321/nutch/trunk/src/java/org/apache/nutch/fetcher/OldFetcher.java
+END
+Fetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1347897/nutch/trunk/src/java/org/apache/nutch/fetcher/Fetcher.java
+END
+FetcherOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/fetcher/FetcherOutput.java
+END

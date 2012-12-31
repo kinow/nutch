@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlmeta/src/java/org/apache/nutch/indexer/urlmeta
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlmeta/src/java/org/apache/nutch/indexer/urlmeta/package.html
+END
+URLMetaIndexingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/urlmeta/src/java/org/apache/nutch/indexer/urlmeta/URLMetaIndexingFilter.java
+END

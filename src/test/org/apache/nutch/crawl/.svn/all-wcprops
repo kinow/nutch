@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1357739/nutch/trunk/src/test/org/apache/nutch/crawl
+END
+TestGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1200912/nutch/trunk/src/test/org/apache/nutch/crawl/TestGenerator.java
+END
+TestSignatureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/org/apache/nutch/crawl/TestSignatureFactory.java
+END
+CrawlDBTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1357739/nutch/trunk/src/test/org/apache/nutch/crawl/CrawlDBTestUtil.java
+END
+TestInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1357739/nutch/trunk/src/test/org/apache/nutch/crawl/TestInjector.java
+END
+TestCrawlDbMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/org/apache/nutch/crawl/TestCrawlDbMerger.java
+END
+DummyWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/org/apache/nutch/crawl/DummyWritable.java
+END
+TestLinkDbMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/test/org/apache/nutch/crawl/TestLinkDbMerger.java
+END

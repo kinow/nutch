@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1302161/nutch/trunk/src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file
+END
+FileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file/FileException.java
+END
+FileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1302161/nutch/trunk/src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file/FileResponse.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file/package.html
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file/File.java
+END
+FileError.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file/FileError.java
+END

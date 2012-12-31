@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1181665/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika
+END
+TestMSWordParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestMSWordParser.java
+END
+TestRTFParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1181665/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestRTFParser.java
+END
+TestOOParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestOOParser.java
+END
+TestFeedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestFeedParser.java
+END
+TestPdfParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/parse-tika/src/test/org/apache/nutch/tika/TestPdfParser.java
+END

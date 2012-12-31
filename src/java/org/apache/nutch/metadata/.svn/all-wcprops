@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1366847/nutch/trunk/src/java/org/apache/nutch/metadata
+END
+CreativeCommons.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/metadata/CreativeCommons.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/metadata/package.html
+END
+Metadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1366847/nutch/trunk/src/java/org/apache/nutch/metadata/Metadata.java
+END
+Nutch.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1363793/nutch/trunk/src/java/org/apache/nutch/metadata/Nutch.java
+END
+Feed.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/metadata/Feed.java
+END
+DublinCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/metadata/DublinCore.java
+END
+MetaWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/metadata/MetaWrapper.java
+END
+SpellCheckedMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/java/org/apache/nutch/metadata/SpellCheckedMetadata.java
+END
+HttpHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1359760/nutch/trunk/src/java/org/apache/nutch/metadata/HttpHeaders.java
+END

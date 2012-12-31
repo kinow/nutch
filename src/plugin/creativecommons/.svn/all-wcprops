@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1340546/nutch/trunk/src/plugin/creativecommons
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/creativecommons/plugin.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/creativecommons/build.xml
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1234802/nutch/trunk/src/plugin/creativecommons/ivy.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1175075/nutch/trunk/src/plugin/creativecommons/README.txt
+END

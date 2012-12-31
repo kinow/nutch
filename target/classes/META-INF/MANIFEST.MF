@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: kinow
+Build-Jdk: 1.7.0_09
+Specification-Title: Apache Nutch
+Specification-Version: 1.6-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Nutch
+Implementation-Version: 1.6-SNAPSHOT
+Implementation-Vendor-Id: org.apache.nutch
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+
